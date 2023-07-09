@@ -43,7 +43,10 @@ class MainActivity : ComponentActivity() {
 //            LayoutComposable()
 //            PreviewFunction()
 
-            CircularImage()
+//            CircularImage()
+
+//            from screen class --
+//            PreviewItems()
         }
     }
 }
